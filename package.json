@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "preinstall": "npm install",
     "dev": "next dev",
     "build": "./node_modules/.bin/next build",
     "start": "next start",
