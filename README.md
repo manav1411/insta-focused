@@ -1,4 +1,4 @@
-insta-focused is a project that allows users to message on instagram, without distractions such as stories, explore, reels, etc.
+insta-focused is a project that allows users to message on instagram, without distractions such as stories, etc.
 
 ## Process
 * A platform is presented to users, where they can log in using their instagram account. Note: a business account is required.
